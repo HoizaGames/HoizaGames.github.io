@@ -34,12 +34,32 @@ Ironsource - [https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mo
 MoPub - [https://www.mopub.com/legal/privacy/](https://www.mopub.com/legal/privacy/)  
 Vungle - [https://vungle.com/privacy/](https://vungle.com/privacy/)  
 
-**Apple and Google may also collect data when you use their app stores to install our Services.**  
-Apple – [https://www.apple.com/uk/privacy/](https://www.apple.com/uk/privacy/)  
-Google - [https://policies.google.com/privacy?hl=en-US](https://policies.google.com/privacy?hl=en-US)  
-
 **Collection of other ‘Non-Personal’ Information**  
 Some non-personal information may be gathered while you use Our games. Non-personal information is general, non-identifiable and anonymous information that is gathered for statistical, analytical and research purposes such as the improvement of our games (for example, bug fixes).
+
+**Payments**  
+We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+
+We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
+
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+
+The payment processors we work with are:
+
+Apple Store In-App Payments  
+Their Privacy Policy can be viewed at <https://www.apple.com/legal/privacy/en-ww/>
+
+Google Play In-App Payments  
+Their Privacy Policy can be viewed at <https://www.google.com/policies/privacy/>
+
+**Links to Other Sites**  
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+**Children’s Privacy**  
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+
+**Security**  
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
 **Policy Updates**  
 This Policy may change from time to time. The most current version of our Privacy Policy can be found at [https://hoizagames.github.io](https://hoizagames.github.io).
